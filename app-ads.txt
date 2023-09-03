@@ -227,3 +227,11 @@ webeyemob.com, 70174, RESELLER
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
 rixengine.com, 604523, RESELLER
 pubmatic.com, 163075, RESELLER, 5d62403b186f2ace
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+inmobi.com, 7847fe1f9ac54b4abe609cde4011243b, RESELLER, 83e75a7ae333ca9d
+pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 12556, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18202, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18364, RESELLER, 5d62403b186f2ace
+triplelift.com, 13883, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 2464975885, RESELLER
